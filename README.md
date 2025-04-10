@@ -23,7 +23,7 @@ Abra o terminal do VSCode e configure o Git com seu nome de usuário e e-mail:
 
 ```bash
 git config --global user.name "SeuUsuario"
-git config --global user.email "SeuUsuario@hotmail.com"
+git config --global user.email "SeuUsuario@seuProvedorEmail.com"
 git config --global credential.helper store
 ```
 
