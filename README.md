@@ -26,7 +26,8 @@ git config --global user.name "SeuUsuario"
 git config --global user.email "SeuUsuario@seuProvedorEmail.com"
 git config --global credential.helper store
 ```
-
+> 🗣️ Substitua `SeuUsuario` e `seuProvedorEmail` pelos seus dados reais.
+> 
 > 💡 Use seu e-mail cadastrado no GitHub. O helper `store` salva as credenciais localmente.
 
 ---
@@ -54,7 +55,7 @@ git remote add origin https://github.com/SeuUsuario/SeuRepositorio.git
 git push -u origin main
 ```
 
-> Substitua `SeuUsuario` e `SeuRepositorio` pelos seus dados reais.
+> 🗣️ Substitua `SeuUsuario` e `SeuRepositorio` pelos seus dados reais.
 
 ---
 
@@ -86,7 +87,7 @@ git commit -m "Atualização no projeto"
 git push
 ```
 
-> Não precisa repetir os comandos de `init`, `branch` ou `remote`.
+> 🗣️ Não precisa repetir os comandos de `init`, `branch` ou `remote`.
 
 ---
 
@@ -114,7 +115,7 @@ Se o repositório já foi clonado e deseja trazer atualizações do GitHub:
 git pull
 ```
 
-> Ideal para manter o projeto atualizado caso outras pessoas também trabalhem nele.
+> 🗣️ Ideal para manter o projeto atualizado caso outras pessoas também trabalhem nele.
 
 ---
 
